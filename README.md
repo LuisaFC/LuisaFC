@@ -1,4 +1,4 @@
-### Luísa Corrêa 👋
+# Luísa Corrêa 👋
 
 Web Developer @CI&T
 
