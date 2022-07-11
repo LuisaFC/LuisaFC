@@ -1,7 +1,6 @@
 # Luísa Corrêa 👋
 
 Web Developer @CI&T
-Web and Freelancer
 
 Enthusiat of web development technologies
 
