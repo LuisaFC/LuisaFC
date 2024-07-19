@@ -1,6 +1,6 @@
 # Luísa Corrêa 👋
 
-Full stack developer @CI&T
+Front end developer @CI&T
 
 Enthusiat of web development technologies
 
