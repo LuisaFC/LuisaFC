@@ -1,6 +1,6 @@
 # Luísa Corrêa 👋
 
-Full Stack developer
+Full Stack developer!
 
 Enthusiat of web development technologies
 
